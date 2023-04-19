@@ -1,0 +1,15 @@
+C:\Users\jessi\Desktop\comp-123_group3_winter2023_banking-app\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\jessi\Desktop\comp-123_group3_winter2023_banking-app\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\jessi\Desktop\comp-123_group3_winter2023_banking-app\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\jessi\Desktop\comp-123_group3_winter2023_banking-app\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\jessi\Desktop\comp-123_group3_winter2023_banking-app\ConsoleApp1\bin\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\jessi\Desktop\comp-123_group3_winter2023_banking-app\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\jessi\Desktop\comp-123_group3_winter2023_banking-app\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\jessi\Desktop\comp-123_group3_winter2023_banking-app\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\Desktop\comp-123_group3_winter2023_banking-app\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\jessi\Desktop\comp-123_group3_winter2023_banking-app\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\jessi\Desktop\comp-123_group3_winter2023_banking-app\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\jessi\Desktop\comp-123_group3_winter2023_banking-app\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\jessi\Desktop\comp-123_group3_winter2023_banking-app\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\jessi\Desktop\comp-123_group3_winter2023_banking-app\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\jessi\Desktop\comp-123_group3_winter2023_banking-app\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
